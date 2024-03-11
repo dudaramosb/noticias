@@ -68,3 +68,42 @@ body {
     letter-spacing: 0.25rem;
     line-height: 1.5rem;
 }
+
+.segunda-sessao{
+    background-color: #00001a;
+    margin-bottom: 4rem;
+    padding: 1.5rem 1rem;
+}
+
+.bb {
+    border-bottom: 1px solid #5e607a;
+}
+
+.mb{
+    margin-bottom: 1.75rem;
+}
+
+.mt {
+    padding-bottom: 1.75rem;
+}
+
+.segunda-sessao h2 {
+    color: #e9aa52;
+    font-size: 2rem;
+    line-height: 100%;
+    margin-bottom: 2.2rem;
+}
+
+.segunda-sessao h3{
+    color: floralwhite;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+}
+
+.segunda-sessao p {
+    color: #5e607a;
+    font-size: 0.9375rem;
+    line-height: 1.625rem;
+}
