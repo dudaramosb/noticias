@@ -107,3 +107,33 @@ body {
     font-size: 0.9375rem;
     line-height: 1.625rem;
 }
+
+.terceira-sessao> div{
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.terceira-sessao img{
+    max-width: 6.25rem;
+}
+
+.terceira-sessao strong {
+    color: #c5c6ce;
+    font-size: 2rem;
+}
+
+.terceira-sessao h2{
+    font-size: 1.125rem;
+    font-weight: 800;
+    line-height: 1.5rem;
+    color: #00001a;
+    margin-block: 0.6;
+}
+
+.terceira-sessao p{
+    font-size: 0.9375rem;
+    line-height: 1.5;
+    color: #5e607a;
+}
